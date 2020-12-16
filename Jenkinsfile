@@ -5,6 +5,7 @@ pipeline{
         SLACK_COLOR_INFO    = '#6ECADC'
         SLACK_COLOR_WARNING = '#FFC300'
         SLACK_COLOR_GOOD    = '#3EB991'
+        JOB_NAME            = 'test'
         SLACK_CHANNEL       = 'ortholoop-devops'
    	
     }
